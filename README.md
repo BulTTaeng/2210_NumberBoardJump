@@ -18,6 +18,8 @@ Full search DFS.
 
 I cound the depth of the dfs and if it is 6, then return.
 
+The number can be made is 0 ~ 999999. So, make check array to not to count dumplicates.
+
 ## Where can I get more help, if I need it?
 
 You can contact me through email, which is wogur7496@gmail.com.
